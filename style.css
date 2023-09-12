@@ -1,0 +1,23 @@
+/*CSS for online recipe course project*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+}
+
+ol li {
+    margin: 10px 0;
+}
